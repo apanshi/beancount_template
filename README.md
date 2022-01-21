@@ -1,5 +1,7 @@
 ## 记账神器 Beancount 学习及模板
 
+**NOTICE: Archived！ 改用这个项目写 [记账神器 Beancount 学习及模板](https://github.com/geekpanshi/panshiji)**
+
 > 这个博客主要是个人 Beancount 学习及模板分享。（Beancount：一个文本记账的复式记账软件）
 >
 > 记账使用 [Beancount](https://github.com/beancount/beancount)，记账查询和展示使用 [Fava， 一个 beancount 的 WEB 界面](https://beancount.github.io/fava/)。
