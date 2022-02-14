@@ -83,6 +83,18 @@
 9. [钱迹](https://qianjiapp.com/)
 10. [TIMI时光记账](Timi时光记账)
 
+#### 1.6 App Store 精选十佳：记帐工具
+1. [MoneyWiz 2022 - 个人财务](https://apps.apple.com/cn/app/moneywiz-2022-%E4%B8%AA%E4%BA%BA%E8%B4%A2%E5%8A%A1/id1511185140)
+2. [专业记账助手Money Pro：家庭及个人理财一站式解决](https://apps.apple.com/cn/app/%E4%B8%93%E4%B8%9A%E8%AE%B0%E8%B4%A6%E5%8A%A9%E6%89%8Bmoney-pro-%E5%AE%B6%E5%BA%AD%E5%8F%8A%E4%B8%AA%E4%BA%BA%E7%90%86%E8%B4%A2%E4%B8%80%E7%AB%99%E5%BC%8F%E8%A7%A3%E5%86%B3/id918609651)
+3. [MOZE 3.0 最美记账](https://apps.apple.com/cn/app/moze-3-0/id1460011387)
+4. [Pixiu 记账（貔貅，助您实现财富自由）](https://apps.apple.com/cn/app/pixiu%E8%AE%B0%E8%B4%A6/id1461452315)
+5. [随手记–记账财务专业软件](https://apps.apple.com/cn/app/%E9%9A%8F%E6%89%8B%E8%AE%B0-%E8%AE%B0%E8%B4%A6%E8%B4%A2%E5%8A%A1%E4%B8%93%E4%B8%9A%E8%BD%AF%E4%BB%B6/id372353614)
+6. [记账城市 Fortune City 用每笔收支，建造你的城市](https://apps.apple.com/cn/app/%E8%AE%B0%E8%B4%A6%E5%9F%8E%E5%B8%82-fortune-city-%E7%94%A8%E6%AF%8F%E7%AC%94%E6%94%B6%E6%94%AF-%E5%BB%BA%E9%80%A0%E4%BD%A0%E7%9A%84%E5%9F%8E%E5%B8%82/id1172713884)
+7. [Pennies – 个人资金、预算和财务管理工具](https://apps.apple.com/cn/app/pennies-%E4%B8%AA%E4%BA%BA%E8%B5%84%E9%87%91-%E9%A2%84%E7%AE%97%E5%92%8C%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/id916741290)
+8. [喵喵记账-超可爱的萌宠记账 app](https://apps.apple.com/cn/app/%E5%96%B5%E5%96%B5%E8%AE%B0%E8%B4%A6-%E8%B6%85%E5%8F%AF%E7%88%B1%E7%9A%84%E8%90%8C%E5%AE%A0%E8%AE%B0%E8%B4%A6app/id1483024444)
+9. [Spentable 超好用的开支追踪工具](https://apps.apple.com/cn/app/spentable/id500630565)
+10. [Percento - 轻松管理你的资产](https://apps.apple.com/cn/app/percento-%E8%BD%BB%E6%9D%BE%E7%AE%A1%E7%90%86%E4%BD%A0%E7%9A%84%E8%B5%84%E4%BA%A7/id1494319934)
+
 ### 2. 关于 Beancount 记账的基本概念
 
 #### TO BE Continued……
