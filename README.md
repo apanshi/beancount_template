@@ -1,6 +1,6 @@
 ## 记账神器 Beancount 学习及模板
 
-**NOTICE: Archived！ 改用这个项目写 [记账神器 Beancount 学习及模板](https://github.com/geekpanshi/panshiji)**
+（备链：未来会改用这个项目写 [记账神器 Beancount 学习及模板](https://github.com/geekpanshi/panshiji)）
 
 > 这个博客主要是个人 Beancount 学习及模板分享。（Beancount：一个文本记账的复式记账软件）
 >
@@ -68,9 +68,11 @@
 
 当然，我们这里说的“广义的账户”是可以自己根据自己的需要去定义，并不像会计科目中那些科目规定的那么详细和“死板”。
 
-#### 1.5 常见的记账软件
+#### 1.5 市面上的记账软件比较
 
 此处只是推荐一些记账的软件，不是本博客的主要内容。
+
+##### 1.5.1 常见的记账软件
 
 1. [随手记](https://www.sui.com/)
 2. [挖财- 我的资产管家，家庭财务综合服务平台](https://www.wacai.com/)
@@ -83,7 +85,7 @@
 9. [钱迹](https://qianjiapp.com/)
 10. [TIMI时光记账](Timi时光记账)
 
-#### 1.6 App Store 精选十佳：记帐工具
+##### 1.5.2 App Store 精选十佳：记帐工具
 1. [MoneyWiz 2022 - 个人财务](https://apps.apple.com/cn/app/moneywiz-2022-%E4%B8%AA%E4%BA%BA%E8%B4%A2%E5%8A%A1/id1511185140)
 2. [专业记账助手Money Pro：家庭及个人理财一站式解决](https://apps.apple.com/cn/app/%E4%B8%93%E4%B8%9A%E8%AE%B0%E8%B4%A6%E5%8A%A9%E6%89%8Bmoney-pro-%E5%AE%B6%E5%BA%AD%E5%8F%8A%E4%B8%AA%E4%BA%BA%E7%90%86%E8%B4%A2%E4%B8%80%E7%AB%99%E5%BC%8F%E8%A7%A3%E5%86%B3/id918609651)
 3. [MOZE 3.0 最美记账](https://apps.apple.com/cn/app/moze-3-0/id1460011387)
